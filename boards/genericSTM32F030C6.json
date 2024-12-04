@@ -18,7 +18,7 @@
     "stm32cube",
     "libopencm3"
   ],
-  "name": "EEXTR F030 V1",
+  "name": "Generic STM32F030C6 (16K Flash, 4K RAM)",
   "upload": {
     "maximum_ram_size": 4096,
     "maximum_size": 16384,
@@ -31,6 +31,6 @@
       "serial"
     ]
   },
-  "url": "https://doc.riot-os.org/group__boards__bluepill-stm32f030c8.html",
-  "vendor": "Bduino"
+  "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f030c6.html",
+  "vendor": "ST"
 }
