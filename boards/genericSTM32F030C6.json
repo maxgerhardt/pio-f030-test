@@ -21,7 +21,7 @@
   "name": "Generic STM32F030C6 (16K Flash, 4K RAM)",
   "upload": {
     "maximum_ram_size": 4096,
-    "maximum_size": 16384,
+    "maximum_size": 32768,
     "protocol": "stlink",
     "protocols": [
       "dfu",
